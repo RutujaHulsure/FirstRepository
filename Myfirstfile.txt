@@ -1,0 +1,5 @@
+Myfristfile ready to commit.
+Now the current file present in local space.
+I have to add this file to staging area for that I have to use command 'git add'
+After that from statging area I have to commit this file to local repository for that
+ I have to use command (git -m 'file name') i think
